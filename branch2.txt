@@ -1,2 +1,3 @@
 file in branch2
 changes
+changes without commit in branch1 
