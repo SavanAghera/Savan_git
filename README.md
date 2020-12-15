@@ -17,7 +17,7 @@ nano dev/1.txt
 nano dev/2.txt  
 git add .  
 git commit -m "1 commit on dev"  
-git push origin master  
+git push origin dev  
 
 # 3
 git branch branch1  
